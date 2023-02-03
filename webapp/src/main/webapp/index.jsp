@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register : Deploy to Docker via Ansible by a jenkins Job</h1>
+    <h1>New user Register : Deploy to Docker via Ansible by a jenkins Jobs</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
